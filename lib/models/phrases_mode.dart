@@ -1,4 +1,6 @@
 class PhraseModel {
-  String englishName;
-  String japaneseName;
+  final String englishName;
+  final String japaneseName;
+
+  PhraseModel({this.englishName, this.japaneseName});
 }
