@@ -1,7 +1,6 @@
 # toku
 
-A new Flutter project.
-
+Toku is an app that teach you how to talk in japanese 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
